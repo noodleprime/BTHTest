@@ -76,24 +76,24 @@
     },
     "night3" : {
         "game0" : {
-            "gameName" : "A Night at Toad's",
-            "gameSubtitle" : "by BubyGamer11 & Jacorn",
-            "gameDescription" : "A place of fun... You have the nightshift... Can you survive a night... at Toad's?\nAdditional concepts provided by THK205\n\n\n(70 MB)",
-            "gameDownload" : "https://download.gamejolt.net/0f64de6a374b89610c3fccde86b9d3bcce0b5bd3e4b3a3673eac38a4fb28756d,1730409228,7/data/games/14/114/931864/files/6712efe0ddbb9/toad.rar",
-            "gameExecutable" : "Toad\\A Night At Toads.exe",
+            "gameName" : "Rotting in Thy Mind",
+            "gameSubtitle" : "by RadicalRendy",
+            "gameDescription" : "As what's left of your material self gets re-crafted for the will of your employers, your consciousness is safely held in a state between live and dead, scheduled for a complete format after you have been fully rebuilt. Though as time passes, you become increasingly more aware, that the 'dog in you dreams' keeps on lurking in the back of thy mind.\n\n\n\n(11 MB)",
+            "gameDownload" : "https://download.gamejolt.net/b547084de36e448388dd0c4f6e89fb57968054d6d75e3329b4dedda42cc75f9e,1730502923,7/data/games/14/114/931864/files/67240b4aeea19/rotting-in-thy-mind.rar",
+            "gameExecutable" : "Rotting in Thy Mind\\Rotting In Thy Mind.exe",
             "gameCommandline" : "",
-            "gameIniKey" : "toad",
-            "gameVersion" : 3
+            "gameIniKey" : "mind",
+            "gameVersion" : 1
         },
         "game1" : {
-            "gameName" : "friends are forever",
-            "gameSubtitle" : "by R.A Bon",
-            "gameDescription" : "You are here to take a night shift for your friend, he left the task to you this time because he had 'better stuff to do,' and you don't want to let him down, so you take it. The job is the make sure everything stays as it should at the new horror attraction, almost ready to open. Based on the old creepy Fredbear's rumors, the task won't be so easy. The animatronics are always working and they don't seem to be very safe... but everything should go as planned if you follow the instructions that your friend left for you.\n\n(80 MB)",
-            "gameDownload" : "https://download.gamejolt.net/a40799c9deb00f558f94dfc84b1651d895b67556dac736128a78b5f814fbce79,1730409263,7/data/games/14/114/931864/files/6718968d81adc/faf.rar",
-            "gameExecutable" : "FAF\\friends are forever.exe",
+            "gameName" : "WINTER ARC",
+            "gameSubtitle" : "by NoodlePrime & Oli",
+            "gameDescription" : "There's an emergency in Bopville! The Stillwater containment facility has had a breach, and the crashouts are coming for you.\n\n\n\n(86 MB)",
+            "gameDownload" : "https://download.gamejolt.net/971a4398be40e1cb2a8d0cc7c3eaa3cc6ade28bbac815a300622d50aacf3e6a3,1730503400,7/data/games/14/114/931864/files/672411453253c/winter-arc.exe",
+            "gameExecutable" : "WINTER ARC.exe",
             "gameCommandline" : "",
-            "gameIniKey" : "friends",
-            "gameVersion" : 9
+            "gameIniKey" : "arc",
+            "gameVersion" : 1
         },
         "game2" : {
             "gameName" : "REVENGE AT TROY'S",
