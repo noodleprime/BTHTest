@@ -71,7 +71,8 @@
             "gameCommandline" : "",
             "gameIniKey" : "troy",
             "gameVersion" : 1
-        },
+        }
+        
     },
     "night3" : {
         "game0" : {
