@@ -96,13 +96,13 @@
             "gameVersion" : 1
         },
         "game2" : {
-            "gameName" : "REVENGE AT TROY'S",
-            "gameSubtitle" : "by Greg_Games & Sunken Studios",
-            "gameDescription" : "Venture into Troy's facility in this third installment of the Revenge at Troy's series as you uncover the truth behind his forsaken past...\n\n\n\n(666 MB)",
-            "gameDownload" : "https://download.gamejolt.net/ce672b90d7110fbca5ea3ed4e6ac5ba9aeab12b1aa2939e2c0d7398288376328,1730409248,7/data/games/14/114/931864/files/6712d9aa749ca/revenge-at-troys-forsaken-past.rar",
-            "gameExecutable" : "REVENGE AT TROYS - FORSAKEN PAST.exe",
+            "gameName" : "Fredfear's",
+            "gameSubtitle" : "by Autumn & co.",
+            "gameDescription" : "FredFear returns after nine years, since his last appearance. Now, he's brought some friends along the way.\n\n\n\n(129 MB)",
+            "gameDownload" : "https://download.gamejolt.net/5ef8812174f2189333d7369ec4f652f786f1b28a8761cfc34f207e71024dfc9b,1730504136,7/data/games/14/114/931864/files/67241415d695e/fredfears.exe",
+            "gameExecutable" : "FREDFEARS.exe",
             "gameCommandline" : "",
-            "gameIniKey" : "troy",
+            "gameIniKey" : "fear",
             "gameVersion" : 1
         }
         
