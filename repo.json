@@ -109,33 +109,33 @@
     },
     "night4" : {
         "game0" : {
-            "gameName" : "Rotting in Thy Mind",
-            "gameSubtitle" : "by RadicalRendy",
-            "gameDescription" : "As what's left of your material self gets re-crafted for the will of your employers, your consciousness is safely held in a state between live and dead, scheduled for a complete format after you have been fully rebuilt. Though as time passes, you become increasingly more aware, that the 'dog in you dreams' keeps on lurking in the back of thy mind.\n\n\n\n(11 MB)",
-            "gameDownload" : "https://download.gamejolt.net/b547084de36e448388dd0c4f6e89fb57968054d6d75e3329b4dedda42cc75f9e,1730502923,7/data/games/14/114/931864/files/67240b4aeea19/rotting-in-thy-mind.rar",
-            "gameExecutable" : "Rotting in Thy Mind\\Rotting In Thy Mind.exe",
+            "gameName" : "Data Retrieved",
+            "gameSubtitle" : "by GlitchyGlitched",
+            "gameDescription" : "You've been taken by an anonymous group of people. They attempted to retrieve information out of you, you refused. In punishment, they place you through a survival trial. You must survive if you want to be let go, or else you'll have to give up and provide the info they request.\n\n\n\n(11 MB)",
+            "gameDownload" : "https://download.gamejolt.net/374da5162f48f0587c80cabe14e83c4c83a0ea2a3c2634377f68a4aa5dbbe2e2,1731888268,7/data/games/14/114/931864/files/67392ebf55a00/data-retrieved.rar",
+            "gameExecutable" : "Data Retrieved\\Data Retrieved.exe",
             "gameCommandline" : "",
-            "gameIniKey" : "mind",
+            "gameIniKey" : "data",
             "gameVersion" : 1
         },
         "game1" : {
-            "gameName" : "WINTER ARC",
-            "gameSubtitle" : "by NoodlePrime & Oli",
-            "gameDescription" : "There's an emergency in Bopville! The Stillwater containment facility has had a breach, and the crashouts are coming for you.\n\n\n\n(86 MB)",
-            "gameDownload" : "https://download.gamejolt.net/971a4398be40e1cb2a8d0cc7c3eaa3cc6ade28bbac815a300622d50aacf3e6a3,1730503400,7/data/games/14/114/931864/files/672411453253c/winter-arc.exe",
-            "gameExecutable" : "WINTER ARC.exe",
+            "gameName" : "The Faztazean Shipwreck",
+            "gameSubtitle" : "Raytheree, JCCO2468 & co.",
+            "gameDescription" : "A mission through space gone wrong as your commander has gone rogue, your ship has crashed into the middle of nowhere, your goal is to survive the night until the search party rescues you before it's too late.\n\n\n\n(160 MB)",
+            "gameDownload" : "https://download.gamejolt.net/3f5d858acb05f0b980286422bb2e7237f321a2e819f0575346321dce64b5967a,1731888362,7/data/games/14/114/931864/files/67392f2d68573/the-faztazean-shipwreck.rar",
+            "gameExecutable" : "The Faztazean Shipwreck\\The Faztazean Shipwreck.exe",
             "gameCommandline" : "",
-            "gameIniKey" : "arc",
+            "gameIniKey" : "faz",
             "gameVersion" : 1
         },
         "game2" : {
-            "gameName" : "Fredfear's",
-            "gameSubtitle" : "by Autumn & co.",
-            "gameDescription" : "FredFear returns after nine years, since his last appearance. Now, he's brought some friends along the way.\n\n\n\n(129 MB)",
-            "gameDownload" : "https://download.gamejolt.net/9398a48cb664ab3d5e62777235111f1fc05a73a1a8d31ed8ab5c25b77f865909,1730504972,7/data/games/14/114/931864/files/6724176c2753b/fredfears.exe",
-            "gameExecutable" : "FREDFEARS.exe",
+            "gameName" : "Omnipotent Obstruction",
+            "gameSubtitle" : "by Fazie, M. Antonio & co.",
+            "gameDescription" : "Omnipotent Obstruction is a simple retake on the Five Nights at Freddy's: Sister Location 'Private Night' boss battle - whereas this time, Ennard is an omnipotent AI-driven hellspawn who's main goal is to simply brining a weary Michael Afton down in a final game of hide and seek. Use shockers, doors, and even a stupid-looking cupcake to ward off Ennard and his pawns in a cost-effective manner that surely won't get you in trouble with the higher-ups at Fazbear Entertainment!\n\n\n\n(129 MB)",
+            "gameDownload" : "https://download.gamejolt.net/6d89f8d0d0ea679e9e5ff0a5ea755d7ce15348c63f3f26c52416096085b4d3fd,1731888468,7/data/games/14/114/931864/files/67393214f0d44/omnipotent-obstruction.rar",
+            "gameExecutable" : "Omnipotent Obstruction\\Omnipotent Obstruction.exe",
             "gameCommandline" : "",
-            "gameIniKey" : "fear",
+            "gameIniKey" : "omni",
             "gameVersion" : 1
         }
         
